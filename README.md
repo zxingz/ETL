@@ -1,2 +1,1 @@
-ETL
-KAFKA + NiFi
+ETL = KAFKA + NiFi
